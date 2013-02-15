@@ -1,2 +1,2 @@
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.rommanager.developerid=sparksco
+    ro.rommanager.developerid=SaberMod
